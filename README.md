@@ -1,9 +1,11 @@
 # Contemporary Issues In Data  
   
+#### Barred From Grocery Stores by Facial Recognition
+https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html
+In a recent article by The New York Times, the application of facial recognition technology by private businesses was examined. Companies like Facewatch, operating in the UK, provided retailers with tools to identify shoplifters and problematic customers. For a monthly fee, as low as £250, Facewatch offered access to a shared watchlist among nearby stores, promptly alerting them when flagged individuals entered their premises. Storeowners could contribute to this watchlist by uploading photos of known shoplifters or troublesome patrons. The technology had proven highly effective in curbing theft, thereby safeguarding businesses from financial losses.
 
+One of the notable benefits of facial recognition technology, as highlighted in the article, was its capacity to enhance security and reduce crime-related expenses for retailers. By identifying and alerting businesses about potential shoplifters or individuals with a history of problematic behavior, facial recognition allowed for more proactive security measures. This not only protected the businesses' assets but also contributed to maintaining competitive prices and staff levels. However, these advantages were accompanied by concerns, especially regarding privacy and the possibility of misidentifications. Critics argued that such technology might lead to unwarranted intrusions into individuals' personal lives and could result in innocent people being mistakenly flagged, as evidenced by a case mentioned in the article. These issues underscored the ongoing debate surrounding the ethical and legal use of facial recognition technology in various contexts.
 
-
-  
 #### Facial Recognition Risks May Outweigh Benefits in Schools
 https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools
 
