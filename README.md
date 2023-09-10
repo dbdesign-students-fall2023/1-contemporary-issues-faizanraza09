@@ -1,6 +1,6 @@
 # Contemporary Issues In Data  
   
-### Barred From Grocery Stores by Facial Recognition
+<u>### Barred From Grocery Stores by Facial Recognition</u>
 https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html
   
     
