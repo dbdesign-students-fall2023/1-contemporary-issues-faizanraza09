@@ -1,10 +1,9 @@
 # Contemporary Issues In Data  
   
 
+
+
   
-
-
-
 #### Facial Recognition Risks May Outweigh Benefits in Schools
 https://www.governing.com/security/facial-recognition-risks-may-outweigh-benefits-in-schools
 
